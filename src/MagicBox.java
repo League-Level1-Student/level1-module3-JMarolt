@@ -35,6 +35,8 @@ public class MagicBox extends JPanel implements Runnable, MouseListener {
 	public static void main(String[] args) throws Exception {
 		SwingUtilities.invokeLater(new MagicBox());
 	
+		JFrame f = new JFrame();
+		
 		
 		
 	}
